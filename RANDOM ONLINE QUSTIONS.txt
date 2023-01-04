@@ -5,3 +5,4 @@ How to select test cases for Automation ? : 1. we have to evalute the test cases
                                             3. Compexity of the test case which takes the maximum human effort
                                             sathyamoorthy added
                                             A branch added
+                                            B branch
