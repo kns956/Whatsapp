@@ -6,3 +6,4 @@ How to select test cases for Automation ? : 1. we have to evalute the test cases
                                             sathyamoorthy added
                                             A branch added
                                             B branch
+                                            vignesh edit
