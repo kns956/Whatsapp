@@ -1,6 +1,6 @@
 When automation? : when the application is stble we can go for automation
 How to select test cases for Automation ? : 1. we have to evalute the test cases and we have to pick the repeated test cases 
                                                in every release
-                                            2. Test cases which are lengthy or which has more num of test steps 
+                                            2. Test cases which are lengthy or which has more num of 
                                             3. Compexity of the test case which takes the maximum human effort
                                             sathyamoorthy added
